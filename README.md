@@ -16,7 +16,7 @@ This analysis moves beyond simple reporting to provide a data foundation for exe
 
 The findings are grounded in a comprehensive dataset reflecting transactional metrics.
 
-* **Dataset Link:** [Ensures data transparency and reproducibility](https://github.com/HOSSAM-AMRR/ecommerce-powerbi-dashboard/blob/main/ecommerce_data.csv).
+* **Dataset Link:** [Ensures data transparency and reproducibility](https://github.com/HOSSAM-AMRR/E-Commerce-PowerBI-Dashboard/blob/main/Data/ecommerce_data.csv).
 * **Tools:** [Power BI ,DAX ,ETL ,Dimentional Modeling].
 
 ---
