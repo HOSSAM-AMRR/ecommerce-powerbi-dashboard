@@ -26,7 +26,7 @@ The findings are grounded in a comprehensive dataset reflecting transactional me
 The dashboard serves as the single source of truth, offering immediate clarity on key operational and financial health metrics.
 
 
-![dashboard-preview.png](https://github.com/HOSSAM-AMRR/ecommerce-powerbi-dashboard/blob/main/dashboard-preview.png)
+![dashboard-preview.png](https://github.com/HOSSAM-AMRR/E-Commerce-PowerBI-Dashboard/blob/main/Images/dashboard-preview.png)
 
 ---
 
