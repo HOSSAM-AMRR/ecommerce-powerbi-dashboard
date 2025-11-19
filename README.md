@@ -63,13 +63,27 @@ The e-commerce platform demonstrates robust financial health and validates its p
 
 ---
 
-## 🤝 7. Analyst Contact
+## 🤝 Connect with the Analyst
 
-I welcome the opportunity to discuss the implications of this review with stakeholders and support further data initiatives.
+**Hossam Amr** – *Advanced Data Analyst | Data Strategist*  
 
-| Platform | Contact Details |
+| 🌐 Platform | 🔗 Profile / Contact |
 | :--- | :--- |
-| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/hossamamr2002/) |
-| **Portfolio** | [View My Portfolio](http://yourportfolio.com) |
-| **Email** | [My Email](hossam.amr2710@gmail.com) |
+| **LinkedIn** | [Connect for Professional Insights](https://www.linkedin.com/in/hossamamr2002/) |
+| **GitHub** | [View Projects & Source Code](https://github.com/yourusername) |
+| **Portfolio** | [Explore My Data Projects](https://yourportfolio.com) |
+| **Email** | [hossam.amr2710@gmail.com](mailto:hossam.amr2710@gmail.com) |
+
+---
+
+### 💼 Portfolio Highlights
+- **Sales Analysis Dashboard:** Interactive Power BI dashboards for retail data insights  
+- **Social Media Analytics:** Multi-platform engagement analysis for UAE university students  
+- **Energy Monitoring System:** Python-based SNMP network monitoring project  
+
+---
+
+**Professional Note:**  
+I leverage advanced data analytics to turn complex datasets into strategic insights. I welcome collaborative opportunities, professional discussions, and projects that drive measurable impact. Connect via LinkedIn, explore my work on GitHub, or view detailed case studies in my portfolio.
+
 ```
